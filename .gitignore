@@ -1,0 +1,5 @@
+# pycharm project files
+/.idea/
+
+# virtualenv
+/venv3.5.6/
